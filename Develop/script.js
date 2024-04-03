@@ -8,7 +8,11 @@ const collectEmployees = function () {
   while (decision) {
     const firstName = prompt("Please enter your first name.");
     const lastName = prompt("Please enter your last name.");
-    const Salary = prompt("Enter Salary");
+    let Salary = prompt("Enter Salary");
+    if (isNaN(Salary) || Salary === null) {
+      Salary = 0;
+    }
+    
     let employee = {
       firstName: firstName,
       lastName: lastName,
@@ -17,9 +21,7 @@ const collectEmployees = function () {
     allEmployees.push(employee);
 
     console.log(employee);
-if (isNaN(Salary)){
-return alert(`Not a Number!`);
-}
+
     decision = window.confirm("Add another employee?")
   }
   console.log(allEmployees);
@@ -29,11 +31,12 @@ return alert(`Not a Number!`);
 
 
 
-// TODO: Get user input to create and return an array of employee objects
+
 
 
 // Display the average salary
 const displayAverageSalary = function (employeesArray) {
+
   // TODO: Calculate and display the average salary
 }
 
