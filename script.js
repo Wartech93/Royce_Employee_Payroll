@@ -1,23 +1,26 @@
 // Get a reference to the #add-employees-btn element
 const addEmployeesBtn = document.querySelector('#add-employees-btn');
 
-// Collect employee data
+// Collect employee data function
 const collectEmployees = function () {
   const allEmployees = [];
   let decision = true;
+  //while loop to collect employee info
   while (decision) {
     const firstName = prompt("Please enter your first name.");
     const lastName = prompt("Please enter your last name.");
     let Salary = prompt("Enter Salary");
+    //if statement to force 0 in place of NaN
     if (isNaN(Salary) || Salary === null) {
       Salary = 0;
     }
-
+//employee array
     let employee = {
       firstName: firstName,
       lastName: lastName,
       salary: parseFloat(Salary)
     };
+//push into array
     allEmployees.push(employee);
 
     console.log(employee);
@@ -48,7 +51,7 @@ const displayAverageSalary = function (employeesArray) {
 const getRandomEmployee = function (employeesArray) {
 let randomEmployee = Math.floor(Math.random() * employeesArray.length);
 alert(`Congrats to ${employeesArray[randomEmployee].firstName} ${employeesArray[randomEmployee].lastName} for being randomly selected.`);
-console.log(`Congrats to ${employeesArray[randomEmployee].firstName} ${employeesArray[randomEmployee].lastName} for being randomly selected.`);
+console.log(getRandomEmployee);
 }
 
 
