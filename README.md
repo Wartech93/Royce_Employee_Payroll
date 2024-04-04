@@ -12,6 +12,8 @@ To start, click the "Add Employee" button. Type in First name, last name, and sa
 I worked with a number of classmates from the coding boot camp in order to complete this project. It was a long process but eventually we all got it figured out!
 ## Installation
 In order to open this you must open in a web browser to access the page.
+## Link
+https://github.com/Wartech93/Royce_Employee_Payroll.git
 
 ## Usage
 1. Click "Add Employee Button
@@ -22,10 +24,12 @@ In order to open this you must open in a web browser to access the page.
 6. An alert will pop up telling you the average salary of all employees and a random employee that was selected
 7. All info that was input will be displayed in a spreadsheet on the page.
 ## Screenshots
-![screenshot1](/assets/Employee_Screenshot.png)
-![screenshot2](/assets/Employee_screenshot2.png)
-![screenshot3](/assets/Employee_screenshot2.png)
+
+![screenshot1](/Royce_Employee_Payroll/Assets/Employee_Screenshot.png)
+![screenshot2](/Royce_Employee_Payroll/Assets/Employee_Screenshot2.png)
+![screenshot3](/Royce_Employee_Payroll/Assets/Employee_Screenshot3.png)
 ## License 
+
 MIT License
 
 Copyright (c) 2024 Wartech93
@@ -48,3 +52,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+.______        ______   ____    ____  ______  _______         ___   .___________. __  ___  __  .__   __.      _______.
+|   _  \      /  __  \  \   \  /   / /      ||   ____|       /   \  |           ||  |/  / |  | |  \ |  |     /       |
+|  |_)  |    |  |  |  |  \   \/   / |  ,----'|  |__         /  ^  \ `---|  |----`|  '  /  |  | |   \|  |    |   (----`
+|      /     |  |  |  |   \_    _/  |  |     |   __|       /  /_\  \    |  |     |    <   |  | |  . `  |     \   \    
+|  |\  \----.|  `--'  |     |  |    |  `----.|  |____     /  _____  \   |  |     |  .  \  |  | |  |\   | .----)   |   
+| _| `._____| \______/      |__|     \______||_______|   /__/     \__\  |__|     |__|\__\ |__| |__| \__| |_______/    
+                                                                                                                     
