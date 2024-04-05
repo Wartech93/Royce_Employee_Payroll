@@ -42,9 +42,9 @@ Live Site: https://wartech93.github.io/Royce_Employee_Payroll/
 
 ## Screenshots
 
-![screenshot1](./assets/Employee_Screenshot.png)
-![screenshot2](./assets/Employee_Screenshot2.png)
-![screenshot3](./assets/Employee_Screenshot3.png)
+![screenshot1](./assets/EmployeeScreenshot.png)
+![screenshot2](./assets/EmployeeScreenshot2.png)
+![screenshot3](./assets/EmployeeScreenshot3.png)
 
 ## License 
 
