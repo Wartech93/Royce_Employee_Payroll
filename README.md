@@ -42,9 +42,9 @@ Live Site: https://wartech93.github.io/Royce_Employee_Payroll/
 
 ## Screenshots
 
-![screenshot1](./assets/EmployeeScreenshot.png)
-![screenshot2](./assets/EmployeeScreenshot2.png)
-![screenshot3](./assets/EmployeeScreenshot3.png)
+![Screenshot1](https://github.com/Wartech93/Royce_Employee_Payroll/blob/main/Assets/EmployeeScreenshot.png?raw=true)
+![Screenshot2](https://github.com/Wartech93/Royce_Employee_Payroll/blob/main/Assets/EmployeeScreenshot2.png?raw=true)
+![Screenshot3](https://github.com/Wartech93/Royce_Employee_Payroll/blob/main/Assets/EmployeeScreenshot3.png?raw=true)
 
 ## License 
 
